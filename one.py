@@ -18,3 +18,5 @@ print('is a feature branch alibe?')
 
 print("another commit")
 
+print('prepare for conflicts')
+
