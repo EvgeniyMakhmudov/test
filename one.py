@@ -12,11 +12,11 @@ print('2.5 commit. Final')
 print('3 commit')
 
 print('4 commit')
-print('5 commit')
+print('5 commit, 5')
 
-print('is a feature branch alibe?')
+print('is a feature branch aliVe?')
 
 print("another commit")
 
-print('prepare for conflicts')
+print('prepare for conflicts, yep')
 
