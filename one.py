@@ -9,6 +9,9 @@ print('2.3 commit')
 print('2.4 commit')
 print('2.5 commit. Final')
 
+def foo(bar):
+    bar
+
 print('3 commit')
 
 print('4 commit')
@@ -26,4 +29,7 @@ print('is a feature branch alive?')
 print("another commit")
 
 print('prepare for conflicts and make conflict!')
+
+class Foo:
+    bar
 
