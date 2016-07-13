@@ -9,27 +9,17 @@ print('2.3 commit')
 print('2.4 commit')
 print('2.5 commit. Final')
 
+
 def foo(bar):
     bar
 
-print('3 commit')
 
-print('4 commit')
-print('5 commit, 5')
+def mprint(value, end):
+    print(value, end=end)
 
-print('is a feature branch aliVe?')
-
-print("another commit")
-
-print('prepare for conflicts, yep')
-print('5 commit, last')
-
-print('is a feature branch alive?')
-
-print("another commit")
-
-print('prepare for conflicts and make conflict!')
 
 class Foo:
-    bar
+    pass
 
+if __name__ == '__main__':
+    mprint('Hello world!')
