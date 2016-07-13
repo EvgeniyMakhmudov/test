@@ -1,10 +1,9 @@
 print('init')
 
 
-def square(value):
+def square(value=1):
     return value ** 2
 
 
-def mprint(value):
-    print(value)
-
+def mprint(value, end='\n'):
+    print(value, end=end)
