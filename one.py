@@ -11,5 +11,10 @@ def square(value=1):
 def mprint(value, end='\n'):
     print(value, end=end)
 
+
+def foo():
+    print('Bar{}'.format(''))
+
+
 if __name__ == '__main__':
     mprint('Hello world', end='!\n')
