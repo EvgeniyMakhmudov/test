@@ -16,5 +16,9 @@ def foo():
     print('Bar{}'.format(''))
 
 
+def mpypy():
+    print('My!my!!1')
+
+
 if __name__ == '__main__':
     mprint('Hello world', end='!\n')
