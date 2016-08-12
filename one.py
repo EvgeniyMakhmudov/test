@@ -15,6 +15,8 @@ def mprint(value, end='\n'):
 def foo():
     print('Bar{}'.format(''))
 
+class Foo:
+    pass
 
 if __name__ == '__main__':
     mprint('Hello world', end='!\n')
