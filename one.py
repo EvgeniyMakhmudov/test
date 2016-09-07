@@ -7,6 +7,5 @@ print('How are you?')
 
 print('Ha-ha!!!')
 
-def foo(value):
-    rere()
-    do(value, obg)
+def foo(obj):
+    do(obj)
