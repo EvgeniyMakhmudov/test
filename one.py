@@ -1,11 +1,2 @@
-#!/usr/bin/env python3
+print('Start')
 
-print('hello')
-print('World!')
-
-print('How are you?')
-
-print('Ha-ha!!!')
-
-def foo(obj):
-    do(obj)
